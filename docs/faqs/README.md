@@ -62,7 +62,7 @@ AdGuard 浏览器插件新版本中可能依然有类似问题。
 | Windows | XP        | Chrome/IE/Firefox/国产包皮   | :x:                |
 
 ::: warning
-注意：macOS 系统需要升级到 >= Big Sur 11.x 版本，Safari 才能支持插件。
+注意：macOS 系统需要升级到 Big Sur 11.x 或以上版本，Safari 才能支持插件。
 :::
 
 ## 其他问题
