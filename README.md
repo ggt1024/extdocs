@@ -7,8 +7,7 @@ This site is built with [VuePress](https://v2.vuepress.vuejs.org/). Site content
 For local development, [yarn](https://yarnpkg.com/) is preferred as package manager:
 
 ```bash
-yarn
-docs:dev
+yarn docs:dev
 ```
 
 This project requires Node.js to be `v14.0.0` or higher, because we use new JavaScript features in our code, such as optional chaining.
