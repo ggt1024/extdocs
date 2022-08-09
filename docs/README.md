@@ -1,10 +1,7 @@
 ---
 home: true
-# heroImage: ./assets/overview.v22.6.1.png
 heroText: 伽马影迷插件
 tagline: 是一个在电脑浏览器中使用的插件程序，帮助电影迷快速了解一部电影。
-actionText: 使用指南 →
-actionLink: ./usage/
 features:
   - title: 查评分
     details: 一键查大众评分和专业评分数据
