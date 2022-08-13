@@ -12,7 +12,7 @@ next: /usage/
 
 ![在 Safari 上安装插件 2](/assets/install.safari.2.png)
 
-::: tip
+::: tip 提示
 伽马影迷插件在苹果系统 App Store 应用商店上为付费应用，安装过程可能会弹窗进行一次性扣费。
 
 如果您不愿意付费，可参考上面在 Edge 浏览器中安装插件流程。
