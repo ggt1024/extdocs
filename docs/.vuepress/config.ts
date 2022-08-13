@@ -16,6 +16,8 @@ export default defineUserConfig({
         "/install/installOnFirefox/",
         "/install/installOn360/",
       ],
+
+      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/usage/vipFeatures/"],
     },
     navbar: [
       {
