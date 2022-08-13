@@ -1,4 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+}
+
 :root {
   --c-brand: #ff9900;
   --c-brand-light: #ff9900;
+  --homepage-width: 1280px;
+  --c-text-lightest: rgba(60, 60, 60, 0.7);
+  --c-text-lighter: rgba(60, 60, 60, 0.7);
+}
+
+.navbar {
+  border-bottom: 1px solid var(--c-brand);
+}
+
+.home .hero {
+  margin: 96px 32px 160px 32px;
+}
+
+.home .hero h1 {
+  font-size: 6rem;
+}
+
+.home .hero .description {
+  max-width: 62rem;
+  font-size: 2rem;
+}
+
+.home .hero .actions {
+  margin-top: 4rem;
+}
+
+.home .hero .action-button {
+  padding: 0.3rem 0.8rem;
+  border-radius: 0.75rem;
+}
+
+.home .hero .action-button.secondary {
+  background-color: var(--c-bg);
+  color: #ff9900;
+  font-weight: 600;
+  border-color: var(--c-bg);
+  font-size: 1.3rem;
+}
+
+.home .hero .action-button.primary:hover {
+  color: var(--c-bg);
+}
+
+.home .features {
+  text-align: center;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  padding: 1rem;
+  margin-top: 2.2rem;
 }
