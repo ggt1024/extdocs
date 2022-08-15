@@ -60,6 +60,8 @@ export default defineUserConfig({
         ],
       },
     ],
+    repoLabel: "查看文档源码",
+    docsDir: "docs",
     docsBranch: "master",
     editLinkText: "编辑此页面",
     repo: "https://github.com/ggt1024/extdocs",
