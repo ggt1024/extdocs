@@ -23,9 +23,3 @@ yarn docs:dev
 ```bash
 yarn docs:build
 ```
-
-For local development, [yarn](https://yarnpkg.com/) is preferred as package manager:
-
-```bash
-yarn docs:dev
-```

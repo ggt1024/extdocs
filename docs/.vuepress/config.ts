@@ -8,6 +8,17 @@ export default defineUserConfig({
   description: "影迷、影视自媒体必备神器",
   theme: defaultTheme({
     logo: "/assets/logo.png",
+    sidebar: {
+      "/install/": [
+        "/install/installOnEdge/",
+        "/install/installOnSafari/",
+        "/install/installOnChrome/",
+        "/install/installOnFirefox/",
+        "/install/installOn360/",
+      ],
+
+      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/usage/vipFeatures/"],
+    },
     navbar: [
       {
         text: "安装指南",
