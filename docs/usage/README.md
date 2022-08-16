@@ -5,10 +5,13 @@ next: /faqs/
 
 # 插件使用指南
 
-## 查电影评分、看短视频解说、找片源(豆瓣篇)
+点击以下网站链接查看对应插件使用指南。
 
-**1、打开浏览器，进入[豆瓣电影](http://movie.douban.com/)界面，选择想要看的电影。**
+| ![douban logo](/assets/douban.logo.png) | ![IMDb logo](/assets/imdb.logo.png) | ![Netflix logo](/assets/netflix.logo.png) |
+| --------------------------------------- | ----------------------------------- | ----------------------------------------- |
+| [豆瓣电影](/usage/usageDouban/)         | [IMDb](/usage/usageIMDb/)           | [Netflix](/usage/usageNetflix/)           |
 
+<<<<<<< HEAD
 ![在豆瓣上使用插件 1](/assets/usage.douban.1.png)
 
 **2、在电影简介下方可看到「伽马影迷插件」，插件默认首页未登录状态可查看大众评分，登录后可查看全部评分和使用全部功能。**
@@ -73,3 +76,6 @@ next: /faqs/
 ## 使用会员功能
 
 待补充。
+=======
+哔哩哔哩、烂番茄(Rotten Tomatoes)、MetaCritic 等等网站上使用「伽马影迷插件」指南大同小异，不一一列出。
+>>>>>>> 10d73f4e44388ef44f65ad8ab1a0f5e453ecd112

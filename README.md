@@ -7,17 +7,21 @@
 推荐使用包管理器器`yarn`，推荐 node.js 版本`v14.0.0`以上
 
 安装相关依赖
+<<<<<<< HEAD
 
 ```bash
 yarn install
 ```
 
 本地开发
+=======
+>>>>>>> 10d73f4e44388ef44f65ad8ab1a0f5e453ecd112
 
 ```bash
-yarn docs:dev
+yarn install
 ```
 
+<<<<<<< HEAD
 打包
 
 ```bash
@@ -28,4 +32,16 @@ For local development, [yarn](https://yarnpkg.com/) is preferred as package mana
 
 ```bash
 yarn docs:dev
+=======
+本地开发
+
+```bash
+yarn docs:dev
+```
+
+打包
+
+```bash
+yarn docs:build
+>>>>>>> 10d73f4e44388ef44f65ad8ab1a0f5e453ecd112
 ```

@@ -4,10 +4,13 @@ next: /usage/
 
 # 插件安装指南
 
-## 微软 Edge 浏览器篇
+根据您使用的浏览器，点击以下对应的链接查看对应插件安装指南。
 
-**1、在 Edge 浏览器上搜索「伽马影迷插件」，点击搜索结果第一个链接进入应用商店。**
+| ![edge logo](/assets/edge_64x64.png) | ![safari logo](/assets/safari_64x64.png) | ![chrome logo](/assets/chrome_64x64.png) | ![firefox logo](/assets/firefox_64x64.png) |
+| ------------------------------------ | ---------------------------------------- | ---------------------------------------- | ------------------------------------------ |
+| [微软 Edge](/install/installOnEdge/) | [苹果 Safari](/install/installOnSafari/) | [谷歌 Chrome](/install/installOnChrome/) | [火狐](/install/installOnFirefox/)         |
 
+<<<<<<< HEAD
 ![在 Edge 上安装插件 1](/assets/install.edge.1.png)
 ![在 Edge 上安装插件 2](/assets/install.edge.2.png)
 
@@ -76,3 +79,8 @@ next: /usage/
 ## 360 浏览器篇
 
 待补充。
+=======
+| ![360 logo](/assets/360-secure_64x64.png) | ![qqbrowser logo](/assets/qqbrowser_64x64.png) |
+| ----------------------------------------- | ---------------------------------------------- |
+| [360 安全](/install/installOn360/)        | [腾讯 QQ](/install/installOnQQBrowser/)        |
+>>>>>>> 10d73f4e44388ef44f65ad8ab1a0f5e453ecd112
