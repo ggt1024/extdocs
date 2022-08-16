@@ -3,9 +3,16 @@ prev: /install/
 next: /usage/
 ---
 
-# QQ 浏览器上安装插件
+# 腾讯 QQ 浏览器上安装插件
 
-**1、QQ 浏览器已不支持插件在官网商店审核上架，因此只能通过加载本地插件的方式安装。**
+::: warning 注意
+腾讯已经放弃桌面市场，QQ 浏览器和其应用商店处于半死不活状态，不建议使用。
+如果您是 Windows 平台用户，建议使用微软官方自带 [Edge](/install/installOnEdge/)，
+macOS 平台用户，建议用苹果官方自带 [Safari](/install/installOnSafari/)。
+:::
+
+**1、QQ 浏览器商店已死无法上架插件应用，因此用户只能通过加载本地插件的方式手动安装。**
+
 **我们先点击[这里](https://share.weiyun.com/rWXs6Evl)，下载「伽马影迷插件」压缩包。**
 ![在 QQ浏览器 上安装插件 1](/assets/install.qqbrowser.1.png)
 
