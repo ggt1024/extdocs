@@ -3,7 +3,7 @@ next: /usage/
 ---
 
 # 360 浏览器上安装插件
-
+### 本文为「360安全浏览器」的安装教程，「360极速浏览器」的安装步骤与本篇类似
 
 **1、在360安全浏览器打开[插件搜索结果](https://ext.se.360.cn/webstore/search/%E4%BC%BD%E9%A9%AC%E5%BD%B1%E8%BF%B7%E6%8F%92%E4%BB%B6)。**
 ![在 360 上安装插件 1](/assets/install.360.1.png)
