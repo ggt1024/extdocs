@@ -14,6 +14,28 @@ body {
   --c-text-lighter: rgba(60, 60, 60, 0.7);
 }
 
+/* 图片统一加框和间隔 */
+.page img {
+  padding: 1em;
+  margin: 1em 1em;
+  border-radius: 1em;
+  border: 1px solid #ccc;
+}
+
+/* 表内嵌入图片居中 */
+.page table {
+  display: table;
+  text-align: center;
+}
+
+/* 表内嵌入图片去掉正文统一加框和间隔 */
+.page table img {
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+  border: none;
+}
+
 .navbar {
   border-bottom: 1px solid var(--c-brand);
 }
@@ -62,9 +84,4 @@ body {
 .footer {
   padding: 1rem;
   margin-top: 2.2rem;
-}
-
-.page table {
-  display: table;
-  text-align: center;
 }
