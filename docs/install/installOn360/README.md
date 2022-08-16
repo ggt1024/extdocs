@@ -1,4 +1,5 @@
 ---
+prev: /install/
 next: /usage/
 ---
 
