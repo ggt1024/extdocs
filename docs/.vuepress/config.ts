@@ -16,6 +16,7 @@ export default defineUserConfig({
         "/install/installOnChrome/",
         "/install/installOnFirefox/",
         "/install/installOn360/",
+        "/install/installOnQQBrowser/",
       ],
 
       "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/usage/vipFeatures/"],
