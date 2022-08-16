@@ -7,6 +7,7 @@ export default defineUserConfig({
   title: "伽马影迷插件",
   description: "影迷、影视自媒体必备神器",
   theme: defaultTheme({
+    colorModeSwitch: false,
     logo: "/assets/logo.png",
     sidebar: {
       "/install/": [
