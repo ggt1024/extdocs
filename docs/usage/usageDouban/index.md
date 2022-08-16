@@ -49,6 +49,8 @@ next: /faqs/
 
 ![在豆瓣上使用插件 14](/assets/usageDouban/usage.douban.14.png)
 
+使用网盘在线观看或下载步骤类似，不再赘述。
+
 ::: danger 注意
 请严格遵守您所在国家和地区法律法规，勿非法下载仍受版权保护的影视作品。
 
