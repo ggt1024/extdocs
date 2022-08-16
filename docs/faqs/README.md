@@ -15,7 +15,7 @@ prev: /usage/
 
 ## 其他
 
-- [插件支持哪些操作系统和浏览器](/faqs/compatibility/)
+- [平台和网站对插件兼容性](/faqs/compatibility/)
 
 ## 反馈建议
 
