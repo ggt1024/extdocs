@@ -46,16 +46,20 @@ export default defineUserConfig({
             link: "https://microsoftedge.microsoft.com/addons/detail/cmnchflmcededjokdbjafjcpbhpodmmo",
           },
           {
-            text: "chrome",
-            link: "https://chrome.google.com/webstore/detail/jwksext-the-missing-tool/ehmoihnjgkdimihkhokkmfjdgomohjgm",
-          },
-          {
             text: "safari",
             link: "https://apps.apple.com/cn/app/apple-store/id1611761892",
           },
           {
+            text: "chrome",
+            link: "https://chrome.google.com/webstore/detail/jwksext-the-missing-tool/ehmoihnjgkdimihkhokkmfjdgomohjgm",
+          },
+          {
             text: "firefox",
             link: "https://addons.mozilla.org/zh-CN/firefox/addon/jwksext-best-for-movie-fans/",
+          },
+          {
+            text: "360 安全",
+            link: "https://ext.se.360.cn/webstore/detail/jjkcmcgdfheillgobdlnfeeppcldgagp",
           },
         ],
       },
