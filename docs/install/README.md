@@ -58,7 +58,20 @@ next: /usage/
 
 ## Mozilla Firefox 浏览器篇
 
-待补充。
+**1、打开 Firefox 浏览器右上角菜单栏，点击「拓展和主题」进入拓展页面**
+
+![在 Firefox 上安装插件 1](/assets/install.firefox.1.png)
+
+**2、在拓展页面顶部搜索「伽马影迷插件」**
+![在 Firefox 上安装插件 2](/assets/install.firefox.2.png)
+
+**3、在搜索结果中点击右侧第一个内容，进入「伽马影迷插件」详情页。**
+
+![在 Firefox 上安装插件 3](/assets/install.firefox.3.png)
+
+**4、在「伽马影迷插件」情页中，点击添加到 Firefox 按钮即可完成插件安装**
+
+![在 Firefox 上安装插件 4](/assets/install.firefox.4.png)
 
 ## 360 浏览器篇
 
