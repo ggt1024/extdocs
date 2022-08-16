@@ -31,7 +31,7 @@ export default defineUserConfig({
         link: "/usage/",
       },
       {
-        text: "常见问题",
+        text: "常见问题解答",
         link: "/faqs/",
       },
       {
