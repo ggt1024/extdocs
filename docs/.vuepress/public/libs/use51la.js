@@ -4,7 +4,7 @@
     var s = window,
       e = document,
       i = p,
-      c = "".concat("https:" === e.location.protocol ? "https://" : "http://", "./js-sdk-pro.min.js"),
+      c = "".concat("https:" === e.location.protocol ? "https://" : "http://", "v2.ext.ggt1024.com/libs/js-sdk-pro.min.js"),
       n = e.createElement("script"),
       r = e.getElementsByTagName("script")[0];
     (n.type = "text/javascript"), n.setAttribute("charset", "UTF-8"), (n.async = !0), (n.src = c), (n.id = "LA_COLLECT"), (i.d = n);
