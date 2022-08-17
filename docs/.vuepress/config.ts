@@ -73,5 +73,5 @@ export default defineUserConfig({
     repo: "https://github.com/ggt1024/extdocs",
   }),
   plugins: [backToTopPlugin()],
-  head: [["script", { type: "text/javascript", src: "../libs/use51la.js" }]],
+  head: [["script", { type: "text/javascript", src: "/libs/use51la.js" }]],
 });
