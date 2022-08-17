@@ -10,3 +10,5 @@ next: /faqs/
 | ![douban logo](/assets/douban.logo.png) | ![IMDb logo](/assets/imdb.logo.png) | ![Netflix logo](/assets/netflix.logo.png) |
 | --------------------------------------- | ----------------------------------- | ----------------------------------------- |
 | [豆瓣电影](/usage/usageDouban/)         | [IMDb](/usage/usageIMDb/)           | [Netflix](/usage/usageNetflix/)           |
+
+哔哩哔哩、烂番茄(Rotten Tomatoes)、MetaCritic 等等网站上使用「伽马影迷插件」指南大同小异，不一一列出。
