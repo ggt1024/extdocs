@@ -5,7 +5,9 @@ next: /usage/
 
 # 谷歌 Chrome 浏览器上安装插件
 
-！chrome 通过 chrome web 应用商店安装插件需要科学上网，如果您无法正常访问商店，应使用 Edge / Safari 等下载使用
+::: warning 注意
+chrome 通过 chrome web 应用商店安装插件需要科学上网，如果您无法正常访问商店，Windows 系统上应使用 [Edge](/install/installOnEdge/)，苹果系统上使用 [Safari](/install/installOnSafari/) 浏览器代替。
+:::
 
 **1、打开 Chrome 浏览器，进入设置页面。**
 
