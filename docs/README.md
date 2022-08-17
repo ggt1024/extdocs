@@ -16,7 +16,7 @@ actions:
   - text: 使用指南
     link: /usage/
     type: secondary
-  - text: 常见问题
+  - text: 常见问题解答
     link: /faqs/
     type: secondary
 footer: Copyright &copy; 2021~ Guangzhou GamMaan Tech LLC | 粤ICP备2020113644号 | 粤公网安备 44010502002211号
