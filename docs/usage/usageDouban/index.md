@@ -24,10 +24,9 @@ next: /faqs/
 7. 当点击单个解说时，插件可直接跳转至解说视频页面，方面快捷。 ![在豆瓣上使用插件 7](/assets/usageDouban/usage.douban.7.png)
 
 8. 如果在哔哩哔哩解说类视频页面也会展示插件内容。 ![在豆瓣上使用插件 8](/assets/usageDouban/usage.douban.8.png)
-
-::: warning 注意
-不是所有哔哩哔哩网站页面都会展示插件内容，只有在「影视区」并且是某部电影相关的解说类视频页面才会展示。
-:::
+   ::: warning 注意
+   不是所有哔哩哔哩网站页面都会展示插件内容，只有在「影视区」并且是某部电影相关的解说类视频页面才会展示。
+   :::
 
 ## 找片源功能
 
@@ -43,11 +42,7 @@ next: /faqs/
 
 1. 进入详情页复制磁力链接，使用 BT 软件(如[迅雷](https://dl.xunlei.com/)、[BitTorrent](https://www.bittorrent.com/downloads/) 下载)即可。 ![在豆瓣上使用插件 12](/assets/usageDouban/usage.douban.12.png)
 
-使用迅雷软件下载几分钟即可完成，使用本地播放器打开观看。
-
-![在豆瓣上使用插件 13](/assets/usageDouban/usage.douban.13.png)
-
-![在豆瓣上使用插件 14](/assets/usageDouban/usage.douban.14.png)
+使用迅雷软件下载几分钟即可完成，使用本地播放器打开观看。 ![在豆瓣上使用插件 13](/assets/usageDouban/usage.douban.13.png) ![在豆瓣上使用插件 14](/assets/usageDouban/usage.douban.14.png)
 
 使用网盘在线观看或下载步骤类似，不再赘述。
 

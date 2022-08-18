@@ -16,10 +16,11 @@ body {
 
 /* 图片统一加框和间隔 */
 .page img {
-  padding: 1em;
-  margin: 1em 1em;
+  padding: 1rem;
+  margin: 1rem 0 0 0;
   border-radius: 1em;
   border: 1px solid #ccc;
+  max-width: 100%;
 }
 
 /* 表内嵌入图片居中 */
@@ -84,4 +85,32 @@ body {
 .footer {
   padding: 1rem;
   margin-top: 2.2rem;
+}
+
+/* 
+ * 仿 GitHub docs 的 ol 步骤样式
+ *  示例 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+ */
+ol:not(.no-styling) {
+  display: block;
+  list-style-type: decimal;
+  counter-reset: li;
+  list-style: none;
+  position: relative;
+  padding-left: 1.7rem;
+}
+ol:not(.no-styling) > li:before {
+  width: calc(1.5rem - 2px);
+  height: calc(1.5rem - 2px);
+  font-size: calc(1rem - 2px);
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: 0;
+  margin-top: 0.2rem;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 50%;
+  background-color: black;
 }
