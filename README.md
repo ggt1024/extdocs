@@ -1,6 +1,6 @@
 # v2.ext.ggt1024.com
 
-本项目为伽马影迷插件文档源码，用 `VuePress` 生成静态网站内容。
+本项目为伽马影迷插件文档源码，支持 [markdown 语法规范](https://spec.commonmark.org/)，用 `VuePress` 生成静态网站内容。
 
 ## 使用
 

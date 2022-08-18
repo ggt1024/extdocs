@@ -29,6 +29,13 @@ body {
   text-align: center;
 }
 
+.page table tr,
+.page table th,
+.page table td {
+  border: 0 !important;
+  border-spacing: 0 !important;
+}
+
 /* 表内嵌入图片去掉正文统一加框和间隔 */
 .page table img {
   padding: 0;
