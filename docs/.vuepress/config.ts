@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 import { backToTopPlugin } from "@vuepress/plugin-back-to-top";
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -72,6 +72,13 @@ export default defineUserConfig({
     docsBranch: "master",
     editLinkText: "编辑此页面",
     repo: "https://github.com/ggt1024/extdocs",
+    lastUpdatedText: "最后更新",
+    contributorsText: "文档编辑",
+    tip: "提示",
+    warning: "注意",
+    danger: "注意",
+    notFound: ["页面不存在"],
+    backToHome: "回首页",
   }),
   plugins: [
     backToTopPlugin(),
