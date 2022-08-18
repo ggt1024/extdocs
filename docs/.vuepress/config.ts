@@ -76,7 +76,7 @@ export default defineUserConfig({
   plugins: [
     backToTopPlugin(),
     googleAnalyticsPlugin({
-      id: "G-XXXXXXXXXX",
+      id: "G-PQ22PRMQR8",
     }),
   ],
 });
