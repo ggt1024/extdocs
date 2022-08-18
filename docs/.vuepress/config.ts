@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 import { backToTopPlugin } from "@vuepress/plugin-back-to-top";
-import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -79,4 +79,5 @@ export default defineUserConfig({
       id: "G-PQ22PRMQR8",
     }),
   ],
+  head: [["script", { type: "text/javascript", src: "/libs/use51la.js" }]],
 });
