@@ -121,3 +121,21 @@ ol:not(.no-styling) > li:before {
   border-radius: 50%;
   background-color: black;
 }
+
+main.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main .theme-default-content {
+  min-height: 100%;
+}
+
+footer.page-meta,
+nav.page-nav {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin-top: auto;
+}
