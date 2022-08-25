@@ -81,7 +81,7 @@ export default defineUserConfig({
   }),
   head: [
     // ["script", { type: "text/javascript", src: "/libs/use51la.js" }],
-    ["script", { type: "text/javascript", src: "https://www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: true }],
+    ["script", { type: "text/javascript", src: "//www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: true }],
     ["script", { type: "text/javascript", src: "/libs/usega.js" }],
     ["script", { type: "text/javascript", src: "/libs/use51la.js" }]
   ],
