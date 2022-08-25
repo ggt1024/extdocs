@@ -71,11 +71,19 @@ export default defineUserConfig({
     docsBranch: "master",
     editLinkText: "编辑此页面",
     repo: "https://github.com/ggt1024/extdocs",
+    lastUpdatedText: "最后更新",
+    contributorsText: "文档编辑",
+    tip: "提示",
+    warning: "注意",
+    danger: "注意",
+    notFound: ["页面不存在"],
+    backToHome: "回首页",
   }),
   head: [
-    ["script", { type: "text/javascript", src: "/libs/use51la.js" }],
-    ["script", { type: "text/javascript", src: "https://www.googletagmanager.com/gtag/js?id=G-YS5B18EGTE", async: true }],
-    ["script", { type: "text/javascript", src: "/libs/usega.js" }]
+    // ["script", { type: "text/javascript", src: "/libs/use51la.js" }],
+    ["script", { type: "text/javascript", src: "https://www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: true }],
+    ["script", { type: "text/javascript", src: "/libs/usega.js" }],
+    ["script", { type: "text/javascript", src: "/libs/use51la.js" }]
   ],
   plugins: [
     backToTopPlugin()
