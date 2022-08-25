@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+}
+
 body {
   font-size: 16px;
 }
@@ -122,14 +129,30 @@ ol:not(.no-styling) > li:before {
   background-color: black;
 }
 
-main.page {
+/* 页脚置底 */
+.theme-container {
+  min-height: 100vh;
+}
+
+main {
+  min-height: 100vh;
+}
+
+main.home {
+  padding: 1em;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
-main .theme-default-content {
-  min-height: 100%;
+main div.footer {
+  margin-top: auto;
+}
+
+main.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 footer.page-meta,
@@ -137,5 +160,8 @@ nav.page-nav {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+footer.page-meta {
   margin-top: auto;
 }
