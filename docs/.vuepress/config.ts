@@ -66,6 +66,11 @@ export default defineUserConfig({
           },
         ],
       },
+
+      {
+        text: "伽马官网",
+        link: "https://ggt1024.com/",
+      },
     ],
     repoLabel: "查看文档源码",
     docsDir: "docs",
