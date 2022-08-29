@@ -1,5 +1,5 @@
 ---
-prev: /usage/
+prev: /vipFeatures/
 ---
 
 # 常见问题解答

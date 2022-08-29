@@ -1,6 +1,5 @@
 ---
 prev: /usage/
-next: /faqs/
 ---
 
 # Netflix 网站上使用插件

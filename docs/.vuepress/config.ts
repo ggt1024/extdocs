@@ -20,7 +20,7 @@ export default defineUserConfig({
         "/install/installOnQQBrowser/",
       ],
 
-      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/usage/vipFeatures/"],
+      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/vipFeatures/"],
     },
     navbar: [
       {
@@ -32,6 +32,12 @@ export default defineUserConfig({
         text: "使用指南",
         link: "/usage/",
       },
+
+      {
+        text: "会员特权功能",
+        link: "/vipFeatures/",
+      },
+
       {
         text: "常见问题解答",
         link: "/faqs/",
