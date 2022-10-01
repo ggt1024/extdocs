@@ -1,5 +1,6 @@
 ---
 prev: /vipFeatures/
+next: /changelogs/
 ---
 
 # 常见问题解答
