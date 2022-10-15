@@ -4,7 +4,7 @@
   "description": "The jwksext installation and usage guides",
   "main": "index.js",
   "author": "GGT1024 <io@ggt1024.com>",
-  "license": "MIT",
+  "license": "Copyright 2022 Guangzhou GamMaan Tech LLC. All rights reserved.",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"

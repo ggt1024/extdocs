@@ -1,8 +1,4 @@
 node_modules/
-.temp
-.cache
+.*
 dist/
-
 *.zip
-
-.DS_Store

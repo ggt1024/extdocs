@@ -42,6 +42,12 @@ export default defineUserConfig({
         text: "常见问题解答",
         link: "/faqs/",
       },
+
+      {
+        text: "变更日志",
+        link: "/changelogs/",
+      },
+
       {
         text: "反馈建议",
         link: "https://support.qq.com/products/316535",
