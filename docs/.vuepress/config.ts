@@ -19,7 +19,7 @@ export default defineUserConfig({
         "/install/installOnQQBrowser/",
       ],
 
-      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/usage/vipFeatures/"],
+      "/usage/": ["/usage/usageDouban/", "/usage/usageIMDb/", "/usage/usageNetflix/", "/vipFeatures/"],
     },
     navbar: [
       {
@@ -31,10 +31,22 @@ export default defineUserConfig({
         text: "使用指南",
         link: "/usage/",
       },
+
+      {
+        text: "会员特权功能",
+        link: "/vipFeatures/",
+      },
+
       {
         text: "常见问题解答",
         link: "/faqs/",
       },
+
+      {
+        text: "变更日志",
+        link: "/changelogs/",
+      },
+
       {
         text: "反馈建议",
         link: "https://support.qq.com/products/316535",
@@ -65,12 +77,12 @@ export default defineUserConfig({
           },
         ],
       },
+
+      {
+        text: "伽马官网",
+        link: "https://ggt1024.com/",
+      },
     ],
-    repoLabel: "查看文档源码",
-    docsDir: "docs",
-    docsBranch: "master",
-    editLinkText: "编辑此页面",
-    repo: "https://github.com/ggt1024/extdocs",
     lastUpdatedText: "最后更新",
     contributorsText: "文档编辑",
     tip: "提示",

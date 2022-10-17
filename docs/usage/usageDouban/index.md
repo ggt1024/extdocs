@@ -1,6 +1,5 @@
 ---
 prev: /usage/
-next: /faqs/
 ---
 
 # 豆瓣网站上使用插件

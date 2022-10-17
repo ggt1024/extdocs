@@ -1,5 +1,6 @@
 ---
 prev: /usage/
+next: /faqs/
 ---
 
 # 会员特权功能

@@ -1,6 +1,6 @@
 ---
 prev: /install/
-next: /faqs/
+next: /vipFeatures/
 ---
 
 # 插件使用指南

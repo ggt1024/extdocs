@@ -23,3 +23,16 @@ yarn docs:dev
 ```bash
 yarn docs:build
 ```
+
+## 常见问题解答
+
+### 报错 ERR_REQUIRE_ESM
+
+执行 `yarn docs:dev` 报错 `ERR_REQUIRE_ESM`，终端输出类似以下：
+
+```
+Error [ERR_REQUIRE_ESM]: require() of ES Module ...\node_modules\@vuepress\plugin-google-analytics\lib\node\index.js from ...\docs\.vuepress\config.ts not supported.
+Instead change the require of index.js in ...\docs\.vuepress\config.ts to a dynamic import() which is available in all CommonJS modules.
+```
+
+删除 node_modules 目录，重新安装构建即可。
