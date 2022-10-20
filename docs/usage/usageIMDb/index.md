@@ -6,6 +6,8 @@ prev: /usage/
 
 IMDb 网站上使用插件查电影评分、看短视频解说、找片源指南。
 
+1. 在电脑浏览器上安装「[伽马影迷插件](/install/)」。
+
 1. 首先打开浏览器，进入 [IMDB 首页](https://www.imdb.com/)界面。在 IMDB 网站可以查看许多豆瓣未收录的电影信息。 ![在 IMDB 上使用插件 1](/assets/usage.imdb.1.png)
 
 1. 我们可以在顶部搜索想查看详情的影片，这里以豆瓣未收录的、2006 年由娄烨执导，郭晓冬、郝蕾、胡伶和张献民主演中国大陆电影「[颐和园(Summer Palace)](https://www.imdb.com/title/tt0794374/)」为例。 ![在 IMDB 上使用插件 2](/assets/usage.imdb.2.png)

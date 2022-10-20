@@ -8,21 +8,23 @@ prev: /usage/
 
 ## 查评分，看解说功能
 
+1. 在电脑浏览器上安装「[伽马影迷插件](/install/)」。
+
 1. 打开浏览器，进入[豆瓣电影](http://movie.douban.com/)界面，选择想要看的电影。 ![在豆瓣上使用插件 1](/assets/usageDouban/usage.douban.1.png)
 
-2. 在电影海报下方可看到「伽马影迷插件」，插件默认未登录状态可查看大众评分，登录后可查看专业评分和使用全部功能。 ![在豆瓣上使用插件 2](/assets/usageDouban/usage.douban.2.png)
+1. 在电影海报下方可看到「伽马影迷插件」，插件默认未登录状态可查看大众评分，登录后可查看专业评分和使用全部功能。 ![在豆瓣上使用插件 2](/assets/usageDouban/usage.douban.2.png)
 
-3. 点击插件右上角「免费注册 | 登录」按钮，跳转至微信扫码登录界面。 ![在豆瓣上使用插件 3](/assets/usageDouban/usage.douban.3.png)
+1. 点击插件右上角「免费注册 | 登录」按钮，跳转至微信扫码登录界面。 ![在豆瓣上使用插件 3](/assets/usageDouban/usage.douban.3.png)
 
-4. 扫码完成后，点击页面右上角「返回上个页面」，回到电影页面。 ![在豆瓣上使用插件 4](/assets/usageDouban/usage.douban.4.png)
+1. 扫码完成后，点击页面右上角「返回上个页面」，回到电影页面。 ![在豆瓣上使用插件 4](/assets/usageDouban/usage.douban.4.png)
 
-5. 登录后，在插件评分界面，可查看该电影的大众评分和专业评分，用户可通过各类评分多维挑选电影。 ![在豆瓣上使用插件 5](/assets/usageDouban/usage.douban.5.png)
+1. 登录后，在插件评分界面，可查看该电影的大众评分和专业评分，用户可通过各类评分多维挑选电影。 ![在豆瓣上使用插件 5](/assets/usageDouban/usage.douban.5.png)
 
-6. 在插件解说标签页界面，可查看该电影的全部解说情况，并可通过筛选项按不同指标进行排序刷选。 ![在豆瓣上使用插件 6](/assets/usageDouban/usage.douban.6.png)
+1. 在插件解说标签页界面，可查看该电影的全部解说情况，并可通过筛选项按不同指标进行排序刷选。 ![在豆瓣上使用插件 6](/assets/usageDouban/usage.douban.6.png)
 
-7. 当点击单个解说时，插件可直接跳转至解说视频页面，方面快捷。 ![在豆瓣上使用插件 7](/assets/usageDouban/usage.douban.7.png)
+1. 当点击单个解说时，插件可直接跳转至解说视频页面，方面快捷。 ![在豆瓣上使用插件 7](/assets/usageDouban/usage.douban.7.png)
 
-8. 如果在哔哩哔哩解说类视频页面也会展示插件内容。 ![在豆瓣上使用插件 8](/assets/usageDouban/usage.douban.8.png)
+1. 如果在哔哩哔哩解说类视频页面也会展示插件内容。 ![在豆瓣上使用插件 8](/assets/usageDouban/usage.douban.8.png)
    ::: warning 注意
    不是所有哔哩哔哩网站页面都会展示插件内容，只有在「影视区」并且是某部电影相关的解说类视频页面才会展示。
    :::

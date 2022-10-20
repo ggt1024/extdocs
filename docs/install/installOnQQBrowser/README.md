@@ -21,4 +21,4 @@ macOS 平台用户，建议用苹果官方自带 [Safari](/install/installOnSafa
 
 1. 选择解压后的文件目录，然后再点击选择文件夹。 ![在 QQ浏览器 上安装插件 4](/assets/install.qqbrowser.4.png)
 
-1. 弹出[插件使用指南](https://v2.ext.ggt1024.com/usage/)页面时，说明插件已安装完成。 ![在 QQ浏览器 上安装插件 5](/assets/install.qqbrowser.5.png)
+1. 弹出「插件使用指南」页面时，说明插件已安装完成。 ![在 QQ浏览器 上安装插件 5](/assets/install.qqbrowser.5.png)
