@@ -1,6 +1,6 @@
 ---
 prev: /install/
-next: /vipFeature
+next: /vipFeatures/
 layout: MyLayout
 ---
 
