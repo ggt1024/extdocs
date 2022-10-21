@@ -1,5 +1,6 @@
 ---
 prev: /usage/
+layout: MyLayout
 ---
 
 # IMDb 网站上使用插件

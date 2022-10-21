@@ -1,6 +1,7 @@
 ---
 prev: /install/
 next: /usage/
+layout: MyLayout
 ---
 
 # 火狐浏览器上安装插件

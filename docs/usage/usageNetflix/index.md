@@ -1,5 +1,6 @@
 ---
 prev: /usage/
+layout: MyLayout
 ---
 
 # Netflix 网站上使用插件

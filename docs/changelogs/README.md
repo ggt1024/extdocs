@@ -1,5 +1,6 @@
 ---
 prev: /faqs/
+layout: MyLayout
 ---
 
 # 变更日志

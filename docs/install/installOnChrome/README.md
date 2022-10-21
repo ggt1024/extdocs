@@ -1,6 +1,7 @@
 ---
 prev: /install/
 next: /usage/
+layout: MyLayout
 ---
 
 # 谷歌 Chrome 浏览器上安装插件

@@ -1,5 +1,6 @@
 ---
 prev: /usage/
+layout: MyLayout
 ---
 
 # 会员特权功能

@@ -1,5 +1,6 @@
 ---
 prev: /usage/
+layout: MyLayout
 ---
 
 # 豆瓣网站上使用插件

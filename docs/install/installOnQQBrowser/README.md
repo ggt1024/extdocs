@@ -1,6 +1,7 @@
 ---
 prev: /install/
 next: /usage/
+layout: MyLayout
 ---
 
 # 腾讯 QQ 浏览器上安装插件

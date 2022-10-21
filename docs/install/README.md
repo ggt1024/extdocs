@@ -1,5 +1,6 @@
 ---
 next: /usage/
+layout: MyLayout
 ---
 
 # 插件安装指南

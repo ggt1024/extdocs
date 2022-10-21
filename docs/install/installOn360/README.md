@@ -1,6 +1,7 @@
 ---
 prev: /install/
 next: /usage/
+layout: MyLayout
 ---
 
 # 360 安全浏览器上安装插件
