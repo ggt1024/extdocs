@@ -3,6 +3,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 import { backToTopPlugin } from "@vuepress/plugin-back-to-top";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import {getDirname,path} from '@vuepress/utils'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 const __dirname = getDirname(import.meta.url)
 
@@ -96,14 +97,15 @@ export default defineUserConfig({
     backToHome: "回首页",
   }),
   head: [
-    ["script", { type: "text/javascript", src: "//www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: true }],
-    ["script", { type: "text/javascript", src: "/libs/usega.js" }],
     ["script", { type: "text/javascript", src: "/libs/use51la.js" }]
   ],
   plugins: [
     backToTopPlugin(),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components')
-    })
+    }),
+    googleAnalyticsPlugin({
+      id: 'G-YS5B18EGTE',
+    }),
   ],
 });
