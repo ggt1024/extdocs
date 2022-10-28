@@ -1,5 +1,6 @@
 ---
 next: /usage/
+layout: MyLayout
 ---
 
 # 微软 Edge 浏览器上安装插件
