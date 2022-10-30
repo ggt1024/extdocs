@@ -22,5 +22,11 @@ actions:
 footer: Copyright &copy; 2021~ Guangzhou GamMaan Tech LLC | 粤ICP备2020113644号 | 粤公网安备 44010502002211号
 footerHtml: true
 ---
+
 <HomeAd />
-<div class="features"><div class="feature"><h2>查评分</h2><p>汇集豆瓣、IMDb、烂番茄等多站主流评分，一键查询</p></div><div class="feature"><h2>看解说</h2><p>三分钟了解一部电影剧情、比2倍数更快刷剧</p></div><div class="feature"><h2>找片源</h2><p>既可在线看新片正版，也可下载高清无码无删减资源</p></div></div>
+
+<div class="features">
+<div class="feature"><h2>查评分</h2><p>汇集豆瓣、IMDb、烂番茄等多站主流评分，一键查询</p></div>
+<div class="feature"><h2>看解说</h2><p>三分钟了解一部电影剧情、比2倍数更快刷剧</p></div>
+<div class="feature"><h2>找片源</h2><p>既可在线看新片正版，也可下载高清无码无删减资源</p></div>
+</div>
