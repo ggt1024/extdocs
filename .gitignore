@@ -3,3 +3,4 @@ dist/
 docs/.vuepress/.temp
 docs/.vuepress/.cache/deps
 *.zip
+.*
