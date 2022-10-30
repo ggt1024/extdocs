@@ -1,7 +1,3 @@
----
-prev: /faqs/
----
-
 # 微信扫码无法注册或登录
 
 ## AdGuard/Adblock Plus 恶意拦截

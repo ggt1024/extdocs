@@ -1,7 +1,3 @@
----
-prev: /usage/
----
-
 # Netflix 网站上使用插件
 
 ::: warning 注意

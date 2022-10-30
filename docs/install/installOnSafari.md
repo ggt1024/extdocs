@@ -1,8 +1,3 @@
----
-prev: /install/
-next: /usage/
----
-
 # 苹果 Safari 浏览器上安装插件
 
 1. 打开 Safari 浏览器，点击左上角「Safari 浏览器」菜单-「Safari 浏览器扩展…」。 ![在 Safari 上安装插件 1](/assets/install.safari.1.png)
@@ -10,7 +5,7 @@ next: /usage/
 1. 在 App Store 应用商店中搜「伽马影迷插件」，安装第一个结果。 ![在 Safari 上安装插件 2](/assets/install.safari.2.png)
    ::: tip 提示
    伽马影迷插件在苹果系统 App Store 应用商店上为付费应用，安装过程可能会弹窗进行一次性扣费。
-   如果您不愿意付费，可参考在 [Edge](/install/installOnEdge/) 浏览器中免费安装插件流程。
+   如果您不愿意付费，可参考在 [Edge](/install/installOnEdge) 浏览器中免费安装插件流程。
    :::
 
 1. 安装完成后，点击「打开」按钮。在弹出窗口中点击「退出并打开 Safari 扩展设置…」。 ![在 Safari 上安装插件 3](/assets/install.safari.3.png)

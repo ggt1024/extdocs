@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "extdocs",
   "version": "1.0.0",
   "description": "The jwksext installation and usage guides",
@@ -6,13 +7,13 @@
   "author": "GGT1024 <io@ggt1024.com>",
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^2.0.0-beta.49",
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.49",
-    "vuepress": "^2.0.0-beta.49",
+    "vitepress": "^1.0.0-alpha.26",
+    "vue": "^3.2.41",
     "zip-a-folder": "^1.1.5"
   }
 }

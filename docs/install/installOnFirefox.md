@@ -1,8 +1,3 @@
----
-prev: /install/
-next: /usage/
----
-
 # 火狐浏览器上安装插件
 
 1. 打开 Firefox 浏览器右上角菜单栏，点击拓展和主题。 ![在 Firefox 上安装插件 1](/assets/installOnFirefox/install.firefox.1.png)

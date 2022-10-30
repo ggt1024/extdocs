@@ -1,7 +1,3 @@
----
-next: /usage/
----
-
 # 微软 Edge 浏览器上安装插件
 
 1. 在 Edge 浏览器上搜索「伽马影迷插件」，点击搜索结果第一个链接进入应用商店。 ![在 Edge 上安装插件 1](/assets/install.edge.1.png) ![在 Edge 上安装插件 2](/assets/install.edge.2.png)
