@@ -8,4 +8,4 @@
 
 | [![firefox logo](/assets/firefox_64x64.png)](/install/installOnFirefox) | [![360 logo](/assets/360-secure_64x64.png)](/install/installOn360) | [![qqbrowser logo](/assets/qqbrowser_64x64.png)](/install/installOnQQBrowser) |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [Mozilla 火狐](/install/installOnFirefox/)                              | [360 安全](/install/installOn360)                                  | [腾讯 QQ](/install/installOnQQBrowser)                                        |
+| [Mozilla 火狐](/install/installOnFirefox)                               | [360 安全](/install/installOn360)                                  | [腾讯 QQ](/install/installOnQQBrowser)                                        |
