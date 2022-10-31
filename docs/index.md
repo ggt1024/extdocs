@@ -16,7 +16,7 @@ hero:
       link: /usage/
     - theme: alt
       text: 常见问题
-      link: /faqs/
+      link: /faqs/signInFail
 
 features:
   - icon: ⭐
