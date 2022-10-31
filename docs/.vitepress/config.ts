@@ -11,6 +11,12 @@ export default defineConfig({
 
   head: [
     ["meta", { name: "theme-color", content: "#ff9900" }],
+
+    // google analysis
+    //   ref: https://github.com/vuejs/vitepress/issues/1131
+    ["script", { type: "text/javascript", src: "//www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: "true" }],
+    ["script", { type: "text/javascript", src: "/libs/usega.js" }],
+
     ["script", { type: "text/javascript", src: "/libs/use51la.js" }],
   ],
 
