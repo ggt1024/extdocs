@@ -1,7 +1,9 @@
 import { defineConfig } from "vitepress";
 
+const base = "/extension/";
+
 export default defineConfig({
-  base: "/extension/",
+  base: base,
 
   lang: "zh-CN",
   title: "伽马影迷插件",
@@ -12,12 +14,23 @@ export default defineConfig({
   head: [
     ["meta", { name: "theme-color", content: "#ff9900" }],
 
+    ["script", { type: "text/javascript", src: base + "/libs/use51la.js" }],
+
     // google analysis
     //   ref: https://github.com/vuejs/vitepress/issues/1131
     ["script", { type: "text/javascript", src: "//www.googletagmanager.com/gtag/js?id=G-PQ22PRMQR8", async: "true" }],
-    ["script", { type: "text/javascript", src: "/libs/usega.js" }],
+    ["script", { type: "text/javascript", src: base + "/libs/usega.js" }],
 
-    ["script", { type: "text/javascript", src: "/libs/use51la.js" }],
+    // google adsense
+    [
+      "script",
+      {
+        type: "text/javascript",
+        src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2173571332281531",
+        async: "true",
+        crossorigin: "anonymous",
+      },
+    ],
   ],
 
   themeConfig: {
