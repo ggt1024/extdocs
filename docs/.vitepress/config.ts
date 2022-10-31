@@ -1,6 +1,8 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: "/extension/",
+
   lang: "zh-CN",
   title: "伽马影迷插件",
   description: "影迷、影视自媒体必备神器",
