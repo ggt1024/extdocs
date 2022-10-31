@@ -9,8 +9,6 @@ export default defineConfig({
   title: "伽马影迷插件",
   description: "影迷、影视自媒体必备神器",
 
-  cleanUrls: "without-subfolders",
-
   head: [
     ["meta", { name: "theme-color", content: "#ff9900" }],
 
