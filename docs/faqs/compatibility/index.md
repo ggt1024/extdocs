@@ -1,5 +1,6 @@
 ---
 prev: /faqs/
+layout: MyLayout
 ---
 
 # 平台和网站对插件兼容性

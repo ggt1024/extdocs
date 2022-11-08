@@ -1,6 +1,7 @@
 ---
 prev: /vipFeatures/
 next: /changelogs/
+layout: MyLayout
 ---
 
 # 常见问题解答

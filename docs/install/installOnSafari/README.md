@@ -1,6 +1,7 @@
 ---
 prev: /install/
 next: /usage/
+layout: MyLayout
 ---
 
 # 苹果 Safari 浏览器上安装插件
