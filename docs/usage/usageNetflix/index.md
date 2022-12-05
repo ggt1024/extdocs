@@ -12,7 +12,7 @@ Netflix 网站上使用插件查电影评分、看短视频解说、找片源指
 
 1. 在电脑浏览器上安装「[伽马影迷插件](/install/)」。
 
-1. 打开浏览器，进入 [Netflix 首页](https://www.netflix.com/browse)界面，稍等片刻便可在主页直观地看到每一部片的来自不同影评网站，如豆瓣，IMDb 等的评分以及评分人数。 ![在 Netflix 上使用插件 1](/assets/usage.netflix.1.png)
+1. 打开浏览器，进入 [Netflix 首页](https://www.netflix.com/browse)界面，稍等片刻便可在主页直观地看到每一部片的来自不同影评网站，如豆瓣，IMDb 等的评分以及评分人数。 ![在 Netflix 上使用插件 1](/assets/usage.netflix.1.jpg)
 
 1. 将鼠标移动到想查看详情的影片上，点击如图所示的按钮。 ![在 Netflix 上使用插件 2](/assets/usage.netflix.2.jpg)
 
