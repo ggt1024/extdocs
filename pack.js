@@ -3,7 +3,7 @@ const path = require("path");
 const zip = require("zip-a-folder").zip;
 
 const fnManifest = "package.json";
-const pathDist = path.join("docs", ".vuepress", "dist");
+const pathDist = path.join("docs", ".vitepress", "dist");
 
 const manifest = JSON.parse(fs.readFileSync(fnManifest, "utf8"));
 
